@@ -14,5 +14,4 @@ Don't look back
 Oden's son
 Attack!
 
-some content here
-and here
+let's make some changes
